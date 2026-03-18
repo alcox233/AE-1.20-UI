@@ -14,4 +14,6 @@ body:
     id: reason
     attributes:
       label: "Reason / 请求原因"
-      description: "Why should this mod be supported? / 为什么希望适配这个模组？" 
+      description: "Why should this mod be supported? / 为什么希望适配这个模组？"
+      placeholder: "Why should this mod be supported? / 为什么希望适配这个模组？"
+      
